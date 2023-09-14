@@ -1,0 +1,36 @@
+.main-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calculator-block{
+    background-color: rgb(47, 44, 44);
+}
+
+.elements{
+    padding: 32px;
+}
+
+.elements h2{
+    color: white;
+}
+
+.password-input{
+    width: 100%;
+    background-color: white;
+    color: black;
+}
+
+.range-slider{
+    color: red;
+}
+
+.cursor-label{
+    color: orange;
+}
+
+.changes{
+    margin: 16px 0px;
+}
